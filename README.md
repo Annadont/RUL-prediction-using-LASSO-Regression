@@ -1,2 +1,2 @@
-# RUL-prediction-using-LOSS-Regression
-Predicting the Remaining Used Life of Machine parts using LOSS Regression.
+# RUL-prediction-using-LASSO-Regression
+Predicting the Remaining Used Life of Machine parts using LASSO Regression.
